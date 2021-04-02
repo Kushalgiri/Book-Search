@@ -1,0 +1,77 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card {
+  background-color: #efefef;
+  width: 336px;
+  border-radius: 5px;
+  margin: 20px;
+  box-shadow: 6px 6px 24px #848484;
+}
+
+.image img {
+  width: 100%;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.cntnt {
+  text-align: center;
+  padding: 20px;
+}
+
+.addToCart {
+  margin: 12px 0px;
+  padding: 12px;
+  background-color: #c6c2c2;
+  border-radius: 8px;
+  border: none;
+  width: 66%;
+  font-size: 17px;
+}
+
+.addToCart:hover {
+  color: white;
+  background-color: black;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+/* .wrapper{
+    /* border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(71 ,71 ,71);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: white;
+    align-items: center;
+    min-width: 40%;           */
+/* display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+} */
+
+/* .btn{
+    background-color: #ceb64d;
+    color: black;
+    /* margin-left: 4%; */
+/* justify-content: center;
+    padding: 12px;
+    border-radius: 22px;
+    height: 13px;
+    width: 240px;
+    display: flex;
+    align-items: center;
+    box-shadow: 3px 2px 15px 0px #c2bdbd; */
+/* margin-top: 31px; */
+/* cursor: pointer;
+
+}
+ * */
